@@ -9,7 +9,7 @@ An API to collect 1080p and 360p videos from youtube.com
 - torchvision
 - numpy
 - opencv
-
+(may have to update requests pip install -U requests[socks])
 ## Acknowledgement
 [youtube Data API](https://developers.google.com/resources/api-libraries/documentation/youtube/v3/python/latest/youtube_v3.search.html)
 
